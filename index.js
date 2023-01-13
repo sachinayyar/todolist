@@ -2,7 +2,7 @@
 const express = require('express');
 
 // set up the port number
-const port = 7000;
+const port = 8080;
 
 // importing the DataBase
 const db = require('./config/mongoose');
